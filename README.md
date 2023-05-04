@@ -1,5 +1,5 @@
 ## Crumpled Paper
-#A messaging system that allows users to send a message and receive message in a crumpled piece of paper. Receiving a message is by clicking a button that allows users to retrieve a random sent message.*
+A messaging system that allows users to send a message and receive message in a crumpled piece of paper. Receiving a message is by clicking a button that allows users to retrieve a random sent message.*
 
 ## Features
  - User authentication
@@ -8,7 +8,7 @@
  - Users can view a list of all messages they have sent and received.
  
 ## License
-#This project is licensed under the MIT License
+This project is licensed under the MIT License
  
 ## Acknowledgments
-#This project was inspired by web event of HoyoLab called BottleMi.
+This project was inspired by web event of HoyoLab called BottleMi.
