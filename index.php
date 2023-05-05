@@ -32,6 +32,7 @@
             </ul>
         </div>
     </div>
+
 </nav>
 
 <div class="row">
@@ -43,9 +44,9 @@
 
             ?>
             <div class="col-md-3 col-sm-2">
-            <div class="card m-2">
+            <div class="card  border-0 mb-2">
                 <div class="card-body">
-                    <img src="assets/img/crumpled-paper.png" class="img-fluid img-thumbnail" alt="Crumpled Paper">
+                    <img src="assets/img/crumpled-paper.png" onclick="alert(<?= $i ?>)" class="img-fluid img-thumbnail" alt="Crumpled Paper">
                 </div>
             </div>
             </div>
