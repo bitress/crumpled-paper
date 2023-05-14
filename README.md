@@ -8,7 +8,7 @@ A messaging system that allows users to send a message and receive message in a 
  - Users can view a list of all messages they have sent and received.
  
 ## License
-This project is licensed under the MIT License
+This project is licensed under the GNU General Public License v3.0
  
 ## Acknowledgments
 This project was inspired by web event of HoyoLab called BottleMi.
